@@ -1,0 +1,89 @@
+*{
+background-image:url('https://tse1.mm.bing.net/th?id=OIP.tDmIAbwZ4gVmXKRAcQpp1AHaD3&pid=Api&P=0.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size:cover ;
+
+
+}
+body{
+  padding: 25px;
+}
+.title {
+	color: yellow;
+  text-align: center;
+}
+.current{
+color:black;
+
+}
+.p1{
+background-color:orange;
+color:white;
+font-family:sarif;
+border-radius:9px;
+font-weight: bold;
+
+}
+.p2{
+background-color:pink;
+color:white;
+font-family:sarif;
+border-radius:9px;
+font-weight: bold;
+
+}
+.p3{
+background-color:aquamarine;
+color:white;
+font-family:sarif;
+border-radius:9px;
+font-weight: bold;
+}
+
+.p4{
+background-color:red;
+color:white;
+font-family:sarif;
+border-radius:9px;
+font-weight: bold;
+}
+
+.p5{
+background-color:blue;
+color:white;
+font-family:sarif;
+border-radius:9px;
+font-weight: bold;
+}
+
+.p6{
+background-color:palevioletred;
+color:white;
+font-family:sarif;
+border-radius:9px;
+font-weight: bold;
+
+}
+.p1:hover{
+background-color:white;
+color:orange;
+}
+.p2:hover{
+background-color:white;
+color:pink;}
+.p3:hover{
+background-color:white;
+color:aquamarine;
+
+}
+.p4:hover{
+background-color:white;
+color:red;}
+.p5:hover{
+background-color:white;
+color:blue;}
+.p6:hover{
+background-color:white;
+color:palevioletred;
+}
